@@ -8,15 +8,17 @@ marqueestyle{
     
     width: 60%;
     height: 100px; 
+    font-size: 23px;
 }
 body{
     
     color: orange;
+    background-color: lightblue;
     align-content: flex-start;
 }
 
 schoolimg{
     
     height: 500px;
-    width: 1000px;
+    width: 100%;
 }
